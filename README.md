@@ -1,1 +1,1 @@
-random readme sh8 c8c8c8c8c8c8
+use ´´´chmod +x shfile.sh´´´ to run my chomikscripts 
